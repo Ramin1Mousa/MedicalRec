@@ -1,4 +1,4 @@
-<img width="753" height="438" alt="image" src="https://github.com/user-attachments/assets/1a5658a0-8bb3-4c5f-8035-b3cfa79b0881" /># MedicalRec
+
 MedicalRec: Medical recommender system for image classification without retraining
 
 ![image](https://github.com/user-attachments/assets/66c386ee-cf30-44da-9fb2-110fcd0a579d)
