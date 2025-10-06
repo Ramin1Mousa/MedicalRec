@@ -36,7 +36,7 @@ Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel 
 
 
 **Train Transformer recommander model**
-![image](https://github.com/user-attachments/assets/a799479c-99b2-4dc2-bfc7-6c81423c1b8b)
+![Uploading image.png…]()
 
 **Testing in real data**
 
